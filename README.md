@@ -33,7 +33,7 @@ code
 ---
 
 ## Featured Projects
-- [Project One — replace-me](#) — Short description: what it does and why it matters. Tech: Node, React, PostgreSQL.
+- [Project One — rep;ace-me](#) — Short description: what it does and why it matters. Tech: Advance Excel, Python,Power BI,Tableau, MySQL.
 - [Project Two — replace-me](#) — Short description and a notable achievement or metric.
 - [Project Three — replace-me](#) — Short description and link to demo or blog post.
 
@@ -53,10 +53,9 @@ Tip: Replace the placeholders above with your repo permalinks or live demos. Add
 ---
 
 ## How to Reach Me
-- Website: your-website.com
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- Twitter: @yourhandle
+- Website: file:///C:/Users/SANJEET%20KUMAR/OneDrive/Documents/Desktop/Bull_Fit_ness%20jym/Bull%20fit_ness%20jym.html#contact
+- Email:codersanjeet371@gmail.com
+- LinkedIn:www.linkedin.com/in/sanjeet-kumar-9976b22b5
 - Prefer a specific contact method? Mention it here.
 
 ---
